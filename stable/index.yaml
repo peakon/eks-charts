@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  aws-cloudwatch-metrics:
+  - apiVersion: v1
+    appVersion: "1.247345"
+    created: "2021-06-14T15:19:47.367522+02:00"
+    description: A Helm chart to deploy aws-cloudwatch-metrics project
+    digest: 421df5b3c5c48591a91294b53a6e872379b8d494b8e10d8d7c1c3b7162c92ed1
+    home: https://github.com/aws/eks-charts
+    icon: https://raw.githubusercontent.com/aws/eks-charts/master/docs/logo/aws.png
+    keywords:
+    - eks
+    - cloudwatch
+    - cloudwatch-metrics
+    - containerinsights
+    name: aws-cloudwatch-metrics
+    sources:
+    - https://github.com/aws/eks-charts
+    urls:
+    - aws-cloudwatch-metrics-0.0.6.tgz
+    version: 0.0.6
+generated: "2021-06-14T15:19:47.362521+02:00"
